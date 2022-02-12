@@ -1,4 +1,4 @@
-<h1 align="center">hi Arman TaheriGhaleTaki</h1>
+<h1 align="center">hi I'm Arman TaheriGhaleTaki</h1>
 <h3 align="center">just a regular PourPasand</h3>
 
 <h3 align="left">Connect with me:</h3>
