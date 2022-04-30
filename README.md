@@ -1,12 +1,10 @@
 <h1 align="center">hi I'm Arman TaheriGhaleTaki</h1>
-<h3 align="center">just a regular PourPasand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taherighaletaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taherighaletaki" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arman-taherighaletaki-823a79219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman taherighaletaki" height="30" width="40" /></a>
 <a href="https://instagram.com/armantaherighaletaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armantaherighaletaki" height="30" width="40" /></a>
-<a href="https://discord.gg/YwG52VPe67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AT&T#4113" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
