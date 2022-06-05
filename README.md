@@ -1,8 +1,5 @@
 <h1 align="center">hi I'm Arman TaheriGhaleTaki</h1>
-
-<div id="views counter" align=center>
-  <img src="https://komarev.com/ghpvc/?username=BehradShirkavand&style=flat&color=orange" width="120" alt="views counter"/>
-<div>
+![](https://komarev.com/ghpvc/?username=ArmanTaheriGhaleTaki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
