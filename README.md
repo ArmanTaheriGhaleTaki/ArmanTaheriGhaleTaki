@@ -1,5 +1,6 @@
 <h1 align="center">hi I'm Arman TaheriGhaleTaki</h1>
-![](https://komarev.com/ghpvc/?username=ArmanTaheriGhaleTaki)
+<!-- ![](https://komarev.com/ghpvc/?username=ArmanTaheriGhaleTaki) -->
+![](https://komarev.com/ghpvc/?username=ArmanTaheriGhaleTaki=PROFILE+VIEWS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
