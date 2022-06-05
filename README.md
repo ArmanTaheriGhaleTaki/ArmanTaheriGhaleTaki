@@ -1,5 +1,9 @@
 <h1 align="center">hi I'm Arman TaheriGhaleTaki</h1>
 
+<div id="views counter" align=center>
+  <img src="https://komarev.com/ghpvc/?username=BehradShirkavand&style=flat&color=orange" width="120" alt="views counter"/>
+<div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taherighaletaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taherighaletaki" height="30" width="40" /></a>
